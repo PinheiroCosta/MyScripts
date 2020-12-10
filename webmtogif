@@ -1,18 +1,18 @@
 #!/usr/bin/bash
 # -------------------------------------------------------------
-# 	A simple script that outputs a gif from a webm file by		#
-#   using FFmpeg.																							#
+#   A simple script that outputs a gif from a webm file by     
+#   using FFmpeg.					       
 # -------------------------------------------------------------
-#	Prerequisites: bash, ffmpeg																	#
-# Instalation: move the file your /usr/local/bin/ directory.	#
-# How to use: webmtogif <file>																#
-#					ex: webtogif video.webm															#
-# ------------------------------------------------------------#
-# Author: Rômulo Pinheiro																			#
-# Creation: 10/12/2020																				#
-# version: 1																									#
-# License: GPL																								#
-#-------------------------------------------------------------#
+# Prerequisites: bash, FFmpeg				       
+#   Instalation: Move the file your /usr/local/bin/ directory.   
+#    How to use: webmtogif <file>				       
+#	     ex: webtogif video.webm
+# ------------------------------------------------------------
+# Author: Rômulo Pinheiro
+# Creation: 10/12/2020
+# version: 1
+# License: GPL
+#-------------------------------------------------------------
 
 webmtogif () {
 		filename=$1
