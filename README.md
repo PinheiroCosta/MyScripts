@@ -2,8 +2,7 @@
 <img width=250 src="/images/bread.png"></img>
 </p>
 
-Here is a list of some useful scripts. Don't forget to apply the user permission before using it.
-```$ chmod +x scriptname```  
+<p align="center">Remember to apply the user permission before using it.</p>
 
 # wembtogif
 ![gif](https://github.com/PinheiroCosta/MyScripts/blob/df098984139bf6ac64894463546a79526ffa921b/images/webmtogif.gif)
@@ -37,3 +36,4 @@ just type _colorpick_ from the commandline.
 
 ### How it works: 
 It uses the yad to pop up a color picker window. You can type the choosen color from hex format #303030 or click on the color drop icon to choose the desired color from the web. The picked color will be automaticaly copied to the clipboard. 
+
