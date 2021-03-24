@@ -3,7 +3,7 @@
 # Color pick that works outside terminal
 # using yad and xclip.
 # ---------------------------------------------------------
-# Prerequisites: bash, yad, xclip
+#     Prerequisites: bash, yad, xclip
 # 	Instalation: apply execution permission by chmod +x colorpick and then move  
 #                      the file to your /usr/local/bin directory.
 #	  How to use: just type 'colorpick' from terminal.  
