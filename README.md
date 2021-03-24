@@ -6,7 +6,8 @@ before using it.
 Convert your webm files into gif format.
 
 ### Prerequisites:
-bash, FFmpeg  
+* bash
+* FFmpeg  
 
 ### Instalation: 
 Move the file to your _/usr/local/bin/_ directory.  
