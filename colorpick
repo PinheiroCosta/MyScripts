@@ -5,9 +5,9 @@
 # ---------------------------------------------------------
 # Prerequisites: bash, yad, xclip
 # 	Instalation: apply execution permission by chmod +x colorpick and then move  
-# the file to your /usr/local/bin directory.
+#                   the file to your /usr/local/bin directory.
 #		 How to use: just type 'colorpick' from terminal.
-#	 How it works: It uses the yad to pop up a color picker window.
+#	 How it works: It uses the yad to pop up a color picker window.  
 #								   You can type the choosen color from hex format #303030
 #                  or click on the color drop icon to choose the desired color
 #								   from the web and the picked color will be automaticaly copyied to
