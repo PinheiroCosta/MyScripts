@@ -1,4 +1,4 @@
-<img align="center" width=250 src="/images/bread.png"></img>
+<img align="center" width=250 margin=auto src="/images/bread.png"></img>
 
 Here is a list of some useful scripts. Don't forget to apply the user permission before using it.
 ```$ chmod +x scriptname```  
