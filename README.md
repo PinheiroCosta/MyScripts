@@ -1,5 +1,6 @@
-<img style="align-content:center" width=250 src="/images/bread.png"></img>
-
+<p align="center">
+<img width=250 src="/images/bread.png"></img>
+</p>
 Here is a list of some useful scripts. Don't forget to apply the user permission before using it.
 ```$ chmod +x scriptname```  
 * webmtogif
