@@ -1,6 +1,7 @@
 # wembtogif
 ![gif](https://github.com/PinheiroCosta/MyScripts/blob/df098984139bf6ac64894463546a79526ffa921b/images/webmtogif.gif)
-Convert webm files into gif format.
+Convert your webm files into gif format.
+
 ### Prerequisites:
 bash, FFmpeg  
 
@@ -13,8 +14,11 @@ ex: webtogif video.webm
 
 # colorpick
 ![gif](https://github.com/PinheiroCosta/MyScripts/blob/5c1049c3cf5d1747a2ed04c4551da8e16f4de3d4/images/colorpick.gif)
+A GUI color picker to use outside the terminal.
 
-### Prerequisites: bash, yad, xclip  
+### Prerequisites: 
+bash, yad, xclip  
+
 ### Instalation: 
 apply execution permission by chmod +x colorpick and then move the file to your /usr/local/bin directory. 
 
