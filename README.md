@@ -32,6 +32,3 @@ move the script file to your _/usr/local/bin_ directory.
 ### How to use: 
 just type _colorpick_ from the commandline.
 
-### How it works: 
-It uses the yad to pop up a color picker window. You can type the choosen color from hex format #303030 or click on the color drop icon to choose the desired color from the web. The picked color will be automaticaly copied to the clipboard. 
-
