@@ -1,3 +1,6 @@
+Here is a list of some useful scripts. Don't forget to apply the user permission with ```$ chmod +x scriptname ```
+before using it.
+
 # wembtogif
 ![gif](https://github.com/PinheiroCosta/MyScripts/blob/df098984139bf6ac64894463546a79526ffa921b/images/webmtogif.gif)
 Convert your webm files into gif format.
@@ -6,11 +9,11 @@ Convert your webm files into gif format.
 bash, FFmpeg  
 
 ### Instalation: 
-Move the file your /usr/local/bin/ directory.  
+Move the file to your _/usr/local/bin/_ directory.  
 
 ### How to use: 
-webmtogif \<file\>  
-ex: webtogif video.webm  
+webmtogif \<filename.webm\>
+ex: ```$ webtogif video.webm```
 
 # colorpick
 ![gif](https://github.com/PinheiroCosta/MyScripts/blob/5c1049c3cf5d1747a2ed04c4551da8e16f4de3d4/images/colorpick.gif)
@@ -20,7 +23,7 @@ A GUI color picker to use outside the terminal.
 bash, yad, xclip  
 
 ### Instalation: 
-apply execution permission by chmod +x colorpick and then move the file to your /usr/local/bin directory. 
+move the script file to your /usr/local/bin directory. 
 
 ### How to use: 
 just type 'colorpick' from the commandline.
