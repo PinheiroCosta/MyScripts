@@ -12,7 +12,7 @@ bash, FFmpeg
 Move the file to your _/usr/local/bin/_ directory.  
 
 ### How to use: 
-webmtogif \<filename.webm\>
+webmtogif \<filename.webm\>  
 ex: ```$ webtogif video.webm```
 
 # colorpick
