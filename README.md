@@ -9,7 +9,7 @@ Convert your webm files into gif format.
 * FFmpeg  
 
 ### Instalation: 
-Move the file to your _/usr/local/bin/_ directory.  
+Move the script to your _/usr/local/bin/_ directory.  
 
 ### How to use: 
 webmtogif \<filename.webm\>  
@@ -31,4 +31,4 @@ move the script file to your _/usr/local/bin_ directory.
 just type _colorpick_ from the commandline.
 
 ### How it works: 
-It uses the yad to pop up a color picker window. You can type the choosen color from hex format #303030 or click on the color drop icon to choose the desired color from the web and the picked color will be automaticaly copyied to the clipboard.  
+It uses the yad to pop up a color picker window. You can type the choosen color from hex format #303030 or click on the color drop icon to choose the desired color from the web. The picked color will be automaticaly copied to the clipboard. 
