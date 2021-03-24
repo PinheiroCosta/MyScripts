@@ -1,5 +1,4 @@
-Here is a list of some useful scripts. Don't forget to apply the user permission with ```$ chmod +x scriptname ```
-before using it.
+Here is a list of some useful scripts. Don't forget to apply the user permission with ```$ chmod +x scriptname ``` before using it.
 
 # wembtogif
 ![gif](https://github.com/PinheiroCosta/MyScripts/blob/df098984139bf6ac64894463546a79526ffa921b/images/webmtogif.gif)
@@ -21,14 +20,15 @@ ex: ```$ webtogif video.webm```
 A GUI color picker to use outside the terminal.
 
 ### Prerequisites: 
-bash, yad, xclip  
+* bash
+* yad
+* xclip  
 
 ### Instalation: 
-move the script file to your /usr/local/bin directory. 
+move the script file to your _/usr/local/bin_ directory. 
 
 ### How to use: 
-just type 'colorpick' from the commandline.
+just type _colorpick_ from the commandline.
 
 ### How it works: 
-It uses the yad to pop up a color picker window. You can type the choosen color from hex format #303030 or click on the color drop icon to choose the desired color  
-from the web and the picked color will be automaticaly copyied to the clipboard.  
+It uses the yad to pop up a color picker window. You can type the choosen color from hex format #303030 or click on the color drop icon to choose the desired color from the web and the picked color will be automaticaly copyied to the clipboard.  
