@@ -33,4 +33,4 @@
 > move the script file to your _/usr/local/bin_ directory. 
 > 
 > ### How to use: 
-> just type _colorpick_ from the commandline.
+> just type _colorpick_ from the commandline. Once the color is picked, click on the 'ok' button. The color hex reference will the automaticaly transfered to the clipboard.
