@@ -11,7 +11,7 @@ Convert your webm files into gif format.
 Move the script to your _/usr/local/bin/_ directory.  
 
 ## How to use: 
-```webmtogif \<filename.webm\>```
+```webmtogif <filename.webm>```
 
 ex: 
 ```$ webtogif video.webm```
