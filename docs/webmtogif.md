@@ -1,4 +1,4 @@
- # webmtogif
+ # Webmtogif
  ---
 > ![gif](https://github.com/PinheiroCosta/MyScripts/raw/df098984139bf6ac64894463546a79526ffa921b/images/webmtogif.gif)
 > Convert your webm files into gif format.
