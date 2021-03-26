@@ -14,4 +14,4 @@ Move the script to your _/usr/local/bin/_ directory.
 ```webmtogif <filename.webm>```
 
 ex: 
-```$ webtogif video.webm```
+```$ webmtogif video.webm```
