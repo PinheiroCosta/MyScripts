@@ -2,20 +2,8 @@
 <img width=250 src="https://github.com/PinheiroCosta/MyScripts/raw/97722319eace982113f70993149753274e16ad9c/images/terminal.png"></img>
 </p>
 
- # wembtogif
-> ![gif](https://github.com/PinheiroCosta/MyScripts/raw/df098984139bf6ac64894463546a79526ffa921b/images/webmtogif.gif)
-> Convert your webm files into gif format.
->
-> ### Prerequisites:
-> * bash
-> * FFmpeg  
->
-> ### Instalation: 
-> Move the script to your _/usr/local/bin/_ directory.  
->
-> ### How to use: 
-> webmtogif \<filename.webm\>  
-> ex: ```$ webtogif video.webm```
+# [wembtogif](https://github.com/PinheiroCosta/MyScripts/blob/a814224ce42144478ee4c231bd959b93b5dd6d6f/docs/colorpick.md)
+
 
 # colorpick
 >
