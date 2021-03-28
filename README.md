@@ -6,3 +6,5 @@
     > Convert your webm files into gif format.
 - # [Colorpick](https://github.com/PinheiroCosta/MyScripts/blob/a814224ce42144478ee4c231bd959b93b5dd6d6f/docs/colorpick.md)
     > A GUI color picker to use outside the terminal.
+- # [Sendmail]()
+    > A commandline tool to send emails directly from terminal.
