@@ -1,4 +1,5 @@
 # Sendmail
+![gif](https://raw.githubusercontent.com/PinheiroCosta/MyScripts/main/images/sendmail.gif)
 A commandline tool to send emails directly from the terminal.
 
 ## Prerequisites: 
