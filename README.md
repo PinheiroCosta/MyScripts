@@ -1,5 +1,7 @@
 <p align="center">
-<img width=250 src="https://github.com/PinheiroCosta/MyScripts/raw/97722319eace982113f70993149753274e16ad9c/images/terminal.png"></img>
+<img width=250 src="https://github.com/PinheiroCosta/MyScripts/raw/97722319eace982113f70993149753274e16ad9c/images/terminal.png"></img><br>
+<img src="https://img.shields.io/github/issues/PinheiroCosta/MyScripts"></img>
+<img src="https://img.shields.io/github/license/PinheiroCosta/MyScripts"></img>
 </p>
 
 - # [Webmtogif](https://github.com/PinheiroCosta/MyScripts/blob/76a3e30cc590dd85212f1f0d0cbd1823b9819b18/docs/webmtogif.md)
