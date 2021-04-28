@@ -55,4 +55,4 @@ read -s email[pass]
 echo "${email[pass]//?/*}"
 
 echo Sending email...
-sendmail && echo -e "\e[32mEmail sent successufly!\e[m" || echo -e "\e[31mSomething went wrong\e[m"
+sendmail && echo -e "\e[32mEmail sent successufuly!\e[m" || echo -e "\e[31mSomething went wrong\e[m"
