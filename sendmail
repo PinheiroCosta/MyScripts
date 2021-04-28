@@ -26,7 +26,7 @@ else
     exit 0
   else
     # show error message and exit with error.
-    echo "Something went wrong and the file couldn't be created. Please create a file named mail.txt before proceed with the following syntax:"
+    echo "Something went wrong and the file couldn't be created. Please create a file named mail.txt before proceed, with the following syntax:"
     echo -e "From: \"User Name\" <username@gmail.com>\nTo: "John Smith" <john@example.com>\nSubject: This is a test message\n\nYour message goes here.\nAnd it can be written with multiple lines."
     exit 1
   fi
