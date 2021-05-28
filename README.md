@@ -6,7 +6,7 @@
 
 # Linux scripts 
 
-- # [Webmtogif](https://github.com/PinheiroCosta/MyScripts/blob/76a3e30cc590dd85212f1f0d0cbd1823b9819b18/docs/webmtogif.md)
+- # [Webmtogif](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/webmtogif.md)
     ![webmtogif version](https://img.shields.io/badge/Version-1.0-sucess)
     > Convert your webm files into gif format.
 - # [Colorpick](https://github.com/PinheiroCosta/MyScripts/blob/a814224ce42144478ee4c231bd959b93b5dd6d6f/docs/colorpick.md)
