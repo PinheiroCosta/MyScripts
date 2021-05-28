@@ -12,6 +12,6 @@
 - # [Colorpick](https://github.com/PinheiroCosta/MyScripts/blob/a814224ce42144478ee4c231bd959b93b5dd6d6f/docs/colorpick.md)
     ![colorpick version](https://img.shields.io/badge/Version-1.1-sucess)
     > A GUI color picker to use outside the terminal.
-- # [Sendmail](https://github.com/PinheiroCosta/MyScripts/blob/ce6c39d50f35f7e057683e940638d9067eaea3e6/docs/sendmail.md)
+- # [Sendmail](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/sendmail.md)
     ![sendmail version](https://img.shields.io/badge/Version-1.0-sucess)
     > A commandline tool to send emails directly from the terminal.
