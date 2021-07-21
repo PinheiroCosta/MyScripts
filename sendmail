@@ -111,7 +111,8 @@ else
 fi
 
 # confirm the email delivery and authentication
-echo -e "\e[1m$(cat mail.txt)\e[m"
+echo -e "\e[1m$(head -3 mail.txt)\e[m"
+sed  1,3d mail.txt
 echo
 echo -e "\e[33m$emailReadyMsg\e[m"
 echo
