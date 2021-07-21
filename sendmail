@@ -95,7 +95,6 @@ set $ARGS "$@"
 
 destination=($(sed s'/,/\n/g' mail.txt | grep -oP --color '<.*>'))
 unset destination[0]
-echo ${destination[1]#<}
 
 # get sender and destination from mail.txt
 email['sender']=${1#<};
