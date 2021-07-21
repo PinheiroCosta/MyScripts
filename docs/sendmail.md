@@ -1,4 +1,3 @@
-# ⛔️ DEPRECATED
 # Sendmail
 ![gif](https://raw.githubusercontent.com/PinheiroCosta/MyScripts/main/images/sendmail.gif)
 A commandline tool to send emails directly from the terminal.
@@ -21,3 +20,7 @@ Subject: This is a test message
 Your message goes here.
 And it can be written with multiple lines.
 ```
+
+# NOTE
+You may need to authorize the "less secure apps" option in your gmail account to this script work properly. Do it at your own risk
+https://myaccount.google.com/lesssecureapps
