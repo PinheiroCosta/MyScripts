@@ -5,6 +5,8 @@
 </p>
 
 # Linux scripts 
+Here you will find some of my bash scripts. Feel free to use and modify them as your needs, but be aware that for now they only work under unix like systems.
+You can find instructions on how to use them by clicking on the script title. Enjoy!
 
 - # [Webmtogif](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/webmtogif.md)
     ![webmtogif version](https://img.shields.io/badge/Version-1.0-sucess)
