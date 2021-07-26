@@ -6,7 +6,9 @@
 
 # Linux scripts 
 Here you will find some of my bash scripts. Feel free to use and modify them to fit your needs, but be aware that most of them only work under unix like systems with bash ver 4+.
-You can find instructions on how to use them by clicking on the script title. Enjoy!
+You can find more detailed instructions by clicking on the script title of your choice. 
+
+Enjoy!
 
 - # [Webmtogif](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/webmtogif.md)
     ![webmtogif version](https://img.shields.io/badge/Version-1.0-sucess)
