@@ -17,3 +17,6 @@ You can find instructions on how to use them by clicking on the script title. En
 - # [Sendmail](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/sendmail.md)
     ![sendmail version](https://img.shields.io/badge/Version-1.0-sucess)
     > A commandline tool to send emails directly from the terminal.
+- # [Morse](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/morse.md)
+    ![morse version](https://img.shields.io/badge/Version-1.0-sucess)
+    > Convert strings to morse code representation in the commandline.
