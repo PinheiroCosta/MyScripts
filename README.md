@@ -4,11 +4,14 @@
 <img src="https://img.shields.io/github/license/PinheiroCosta/MyScripts"></img>
 </p>
 
-# Linux scripts 
-Here you will find some of my bash scripts. Feel free to use and modify them to fit your needs, but be aware that most of them only work under unix like systems with bash ver 4+.
+# My scripts 
+Here you will find some of my scripts. Feel free to use and modify them to fit your needs.
+Note that most of the shell scripts only work under unix like systems with bash ver 4+. 
 You can find more detailed instructions by clicking on the script title of your choice. 
 
 Enjoy!
+
+## Shell scripts
 
 - # [Webmtogif](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/webmtogif.md)
     ![webmtogif version](https://img.shields.io/badge/Version-1.0-sucess)
