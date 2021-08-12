@@ -25,3 +25,8 @@ Enjoy!
 - # [Morse](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/morse.md)
     ![morse version](https://img.shields.io/badge/Version-1.0-sucess)
     > Convert strings to morse code representation in the commandline.
+
+## Python scripts
+
+-   # [Getmage](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/getmage.md)
+    > Web scraper to download all the images of a given url page
