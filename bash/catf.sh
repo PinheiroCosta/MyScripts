@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 catf() {
-    # Search for a function inside the document
+    # Search for a  bash function inside the document
     # Usage: catf function_name filename
     # insert the name of the function without the parenthesis 
     # ex: catf instead of catf().
