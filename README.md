@@ -13,23 +13,18 @@ Enjoy!
 
 ## Shell scripts
 
-- # [Webmtogif](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/webmtogif.md)
-    ![webmtogif version](https://img.shields.io/badge/Version-1.0-sucess)
+- ### [Webmtogif](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/webmtogif.md)   
     > Convert your webm files into gif format.
-- # [Colorpick](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/colorpick.md)
-    ![colorpick version](https://img.shields.io/badge/Version-1.1-sucess)
+- ### [Colorpick](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/colorpick.md)
     > A GUI color picker to use outside the terminal.
-- # [Sendmail](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/sendmail.md)
-    ![sendmail version](https://img.shields.io/badge/Version-1.0-sucess)
+- ### [Sendmail](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/sendmail.md)
     > A commandline tool to send emails directly from the terminal.
-- # [Morse](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/morse.md)
-    ![morse version](https://img.shields.io/badge/Version-1.0-sucess)
+- ### [Morse](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/morse.md)
     > Convert strings to morse code representation in the commandline.
-- # [Catf](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/catf.md)
-    ![catf version](https://img.shields.io/badge/Version-1.0-sucess)
+- ### [Catf](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/catf.md)
     > search for a bash function inside the document
 
 ## Python scripts
 
--   # [Getmage](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/getmage.md)
+-   ### [Getmage](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/getmage.md)
     > Web scraper to download all the images from a given url page
