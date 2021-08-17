@@ -10,24 +10,26 @@
 # ------------------------------------------------------------
 # Author: Rômulo Pinheiro
 # Creation: 10/12/2020
-# version: 1
+# version: 1.1
 # License: GPL
 #-------------------------------------------------------------
 
 webmtogif () {
+		# Convert webm to gif
+		# Usage: webmtogif file.webm
+
 		filename=$1
 		tempfolder=$(mktemp -d)
-		trap "rm -vfr $tempfolder" EXIT
+		trap 'rm -vfr $tempfolder' EXIT
 
 		# Check if extension is webm
 		if [[ ${filename##*.} == 'webm' ]];
 		then
 				ffmpeg -y -i "$filename" -vf palettegen "$tempfolder/palette.png"
-				ffmpeg -y -i "$filename" -i "$tempfolder/palette.png" -filter_complex paletteuse -r 10 "$PWD/${filename/%webm/gif}"
+				ffmpeg -y -i "$filename" -i "$tempfolder/palette.png" \
+					-filter_complex paletteuse -r 10 "$PWD/${filename/%webm/gif}" 
 		else
-				echo "the file extension must be 'webm'."
+				echo "the file must be a webm extension type."
 		fi
 
-}
-
-webmtogif $1
+}		# ------------------------- End of webmtogif() --------------------------
