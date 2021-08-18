@@ -10,17 +10,17 @@ catf() {
     filename=$2;
     error="$function not found in $filename."
 
-    # get the starting line of the function
+    # get the starting line number of the function
     startLine=$(grep -nm 1 "$function \?() \?{" "$filename" | \
     cut -d ':' -f 1);
 
     # if command runs successfuly
     if [ "$startLine" ]; then
-        # get the ending line of the function
+        # get the ending line number of the function
         endingLine=$(sed -n "$startLine,$ p" "$filename" | \
         grep -nm 1 "}[[:space:]]" | \
         cut -d ':' -f 1);
-        # if found the complete body of the  function
+        # if found the complete body of the function
         if [ "$endingLine" ]; then
             # echo the body of the function	
             functionText=$(head -"$((startLine + endingLine))" "$filename" | \
