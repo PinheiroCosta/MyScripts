@@ -7,7 +7,7 @@
 Search for a function inside your document
 
 ## Prerequisites: 
-* should work on every Unix based plataform (not tested)
+* should work on every Unix based plataform (tested on bash ver 5.1.0)
 
 ## Instalation: 
 move the script file to your _/usr/local/bin_ directory. 
