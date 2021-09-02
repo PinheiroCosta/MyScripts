@@ -28,3 +28,6 @@ Enjoy!
 
 -   ### [Getmage](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/getmage.md)
     > Web scraper to download all the images from a given url page
+
+-   ### [Pitch](https://github.com/PinheiroCosta/MyScripts/blob/main/docs/pitch.md)
+    > Print the musical notation of a sound frequency
