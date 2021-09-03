@@ -1,6 +1,7 @@
 # Colorpick
 
-![gif](https://github.com/PinheiroCosta/MyScripts/raw/5c1049c3cf5d1747a2ed04c4551da8e16f4de3d4/images/colorpick.gif)
+![colorpick](https://user-images.githubusercontent.com/37278803/131994625-689dd886-11d0-4c44-ab72-35975abda1e7.gif)
+
 ![version badge](https://img.shields.io/badge/Version-1.1-sucess)  
 A GUI color picker to use outside the terminal.
 
