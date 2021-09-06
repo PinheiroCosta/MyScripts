@@ -10,7 +10,7 @@ Search for a function inside your document
 * should work on every Unix based plataform (tested on bash ver 5.1.0)
 
 ## Instalation: 
-move the script file to your _/usr/local/bin_ directory. 
+move [catf.sh](https://github.com/PinheiroCosta/MyScripts/blob/main/bash/catf.sh) to your _/usr/local/bin_ directory. 
 
 ## How to use: 
 
