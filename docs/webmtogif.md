@@ -9,7 +9,8 @@ Convert your webm files into gif format.
 * FFmpeg  
 
 ## Instalation: 
-Move the script to your _/usr/local/bin/_ directory.  
+1. Download the [webmtogif.sh](https://github.com/PinheiroCosta/MyScripts/blob/main/bash/webmtogif.sh)
+2. Move the script to your _/usr/local/bin/_ directory.  
 
 ## How to use: 
 ```webmtogif <filename.webm>```
