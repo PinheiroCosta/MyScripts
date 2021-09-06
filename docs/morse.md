@@ -10,9 +10,9 @@ Convert a string to morse code.
 
 
 ## How to use
-Add execute permission with chmod +x morse.sh
-and run the script with ./morse.sh "your text here"
+1. download the [morse.sh](https://github.com/PinheiroCosta/MyScripts/blob/main/bash/morse.sh)  
+2. Add execute permission with chmod +x morse.sh  
+3. and run the script with ./morse.sh "your text here" 
 
-Ex.: ./morse.sh "my text here" 
-
-output: -- -.--   - . -..- -   .... . .-. . 
+Ex.: ./morse.sh "my text here"  
+output: -- -.--   - . -..- -   .... . .-. .  
