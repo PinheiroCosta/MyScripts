@@ -8,7 +8,9 @@ A commandline tool to send emails directly from the terminal.
 * Curl  
 
 ## Instalation: 
-give execution permission with ```chmod +x sendmail``` and then just just run the script ```$ ./sendmail``` 
+1. download the [sendmail.sh](https://github.com/PinheiroCosta/MyScripts/blob/main/bash/sendmail.sh)  
+2. give execution permission with ```chmod +x sendmail``` 
+3. and then just just run the script ```$ ./sendmail``` 
 
 ## How to use: 
 The email must be written inside of a file called mail.txt within the same directory as the script is with the following syntax.
