@@ -4,8 +4,11 @@
 
 Convert a sound frequency into a musical pitch notation
 
+# Install 
+Download [pitch.py](https://github.com/PinheiroCosta/MyScripts/blob/main/python/pitch.py)
+
 # Usage
-`pitch.py soundFrequency `
+`python pitch.py soundFrequency `
 
 `ex: python pitch.py 567`
 
