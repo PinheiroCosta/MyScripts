@@ -3,6 +3,9 @@ Download all the image files contained into a website page directly from the com
 
 download your favorite mangás, album photos and more.
 
+# Install
+Download [getmage.py](https://github.com/PinheiroCosta/MyScripts/blob/main/python/getmage.py)
+
 # Usage
 `$ getmage.py http://page-url.com` 
 
