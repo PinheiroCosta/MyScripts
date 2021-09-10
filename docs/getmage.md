@@ -1,4 +1,8 @@
 # getmage
+
+![getmage](https://user-images.githubusercontent.com/37278803/132914953-7e3dbf4d-80bd-422e-b19c-cbb5b39354f9.gif)
+
+
 Download all the image files contained into a website page directly from the commandline
 
 download your favorite mangás, album photos and more.
